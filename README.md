@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=MXuPlus&show_icons=true&theme=github_dark" alt="MXuPlus" /></p>
 
-![OS](https://img.shields.io/badge/OS-Windows-33aadd?style=flat-square&logo=windows&logoColor=ffffff)
+![OS](https://img.shields.io/badge/OS-ArchLinux-33aadd?style=flat-square&logo=archlinux&logoColor=ffffff)
 ![Work0](https://img.shields.io/badge/Work-Linux-33aadd?style=flat-square&logo=linux&logoColor=ffffff)
 ![Work1](https://img.shields.io/badge/Work-C/C++-33aadd?style=flat-square&logo=cplusplus&logoColor=ffffff)
 
