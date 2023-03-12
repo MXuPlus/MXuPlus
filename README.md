@@ -3,10 +3,10 @@
 
 ***
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=MXuPlus&show_icons=true&theme=github_dark" alt="MXuPlus" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=MXuPlus&show_icons=true&theme=github" alt="MXuPlus" /></p>
 
-![OS](https://img.shields.io/badge/OS-ArchLinux-33aadd?style=flat-square&logo=archlinux&logoColor=ffffff)
-![Work0](https://img.shields.io/badge/Work-Linux-33aadd?style=flat-square&logo=linux&logoColor=ffffff)
+![OS](https://img.shields.io/badge/OS-Windows-33aadd?style=flat-square&logo=windows&logoColor=ffffff)
+![Work0](https://img.shields.io/badge/Work-Unix-33aadd?style=flat-square&logo=apple&logoColor=ffffff)
 ![Work1](https://img.shields.io/badge/Work-C/C++-33aadd?style=flat-square&logo=cplusplus&logoColor=ffffff)
 
   - :heart: Computer, Development, C/C++, Electronics
@@ -21,8 +21,8 @@
 
     
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MXuPlus&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MXuPlus&theme=github)
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MXuPlus&theme=github_dark" alt="commit" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MXuPlus&theme=github" alt="commit" /></p>
 
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MXuPlus&utcOffset=8&theme=github_dark" alt="MXuPlus" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MXuPlus&utcOffset=8&theme=github" alt="MXuPlus" /></p>
